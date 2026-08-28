@@ -29,8 +29,9 @@ Key takeaways from the experiments:
 
 ## Error Analysis
 
-The confusion matrix shows the model's main weakness is **rose → tulip** (18 of 115 roses misclassified as tulips; the reverse error is rare at 4). Both are cup-shaped and often photographed in similar close-up framing. Dandelion is the strongest class (138/156) — its shape is visually unmistakable.
-![Confusion Matrix](confusion_matrix.png)
+The confusion matrix shows the model's main weakness is **rose → tulip** (18 of 115 roses misclassified as tulips; the reverse error is rare at 4). Both are cup-shaped and often photographed in similar close-up framing. Dandelion is the strongest class (138/156) — its shape is visually unmistakable.<img width="566" height="455" alt="! Confusion Matrix (confusion_matrix png)" src="https://github.com/user-attachments/assets/e7e29a1f-2bef-48c3-9188-112cbffbb78e" />
+
+
 
 ## Tech Stack
 
