@@ -52,3 +52,5 @@ Fixed seed (42) makes the data split and results reproducible.
 - Early stopping / model checkpointing on best val loss
 - Class-weighted loss or targeted augmentation for the rose/tulip confusion
 - Deploy as a simple Gradio demo
+
+Download the trained weights from [Releases](../../releases/latest), then:
